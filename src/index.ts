@@ -1,2 +1,5 @@
-  age: 78
-}, 
+class User {
+  constructor(parameters) {
+    
+  }
+}
